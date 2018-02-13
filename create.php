@@ -25,13 +25,14 @@
         </div>
       </div>
     </div>
-    
+
     <section class="create">
+
       <div class="create_left">
-      <p class="create_title">Créer votre article</p>
+      <p class="create_title">Modifier votre article</p>
 
         <input class="input_container_title" type="text" placeholder="Titre de l'article">
-        <div class="floatRight"><input class="input_container_date" type="date" placeholder="Titre de l'article"></div>
+        <input class="input_container_place" type="text" placeholder="Lieux"><input class="input_container_date" type="date" placeholder="Titre de l'article"></div>
 
       </div>
       <textarea class="input_container_text"placeholder="Contenu de l'article"name="name" rows="8" cols="80"></textarea>
